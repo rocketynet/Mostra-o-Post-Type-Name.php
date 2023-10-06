@@ -1,0 +1,1 @@
+# Mostra-o-Post-Type-Name.php
